@@ -1,4 +1,4 @@
-# APOLLO
+# APOLLO: Raman-based AI platform to accelerate the diagnosis and management of gliomas via rapid methylation profiling
 
 <strong> Adrian Lita<sup>1</sup>, [Joel Sjöberg](https://github.com/JoelSjoberg)<sup>2</sup>, [David Păcioianu](https://github.com/DavidPacioianu)<sup>3</sup>, Nicoleta Siminea<sup>3,4</sup>, Orieta Celiku<sup>1</sup>, Andrei Păun<sup>3,4</sup>, Mark R. Gilbert<sup>1</sup>, Houtan Noushmehr<sup>5</sup>, Ion Petre<sup>2,4,*</sup> , and Mioara Larion<sup>1,*</sup> </strong>
 
