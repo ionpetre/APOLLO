@@ -14,3 +14,6 @@ Methylation profiling of glioma has become an integral part of the diagnosis and
 
 ## Data
 Link to the dataset: https://seafile.utu.fi/f/6b787f5046334c808fc8/?dl=1
+
+## Library versions
+The models were trained and evauated using python 3.9.15, scikitlearn 1.1.3, pandas 1.4.4, numpy 1.21.5, matplotlib 3.5.3, seaborne 0.12.1. 
